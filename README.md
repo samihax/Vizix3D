@@ -1,1 +1,3 @@
-# Vizix3d
+# Vizix 3-D 
+The auto-stereoscopic integral imaging  development kit coming soon...
+http://dev.kit.Vizix3D.com/publicPreview
